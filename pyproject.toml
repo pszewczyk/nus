@@ -1,0 +1,12 @@
+[project]
+name = "nus"
+description = "Natural Unit System converter"
+version = "0.1.0"
+authors = [
+    { name = "Paweł Szewczyk", email = "pszewczyk@astrouw.edu.pl" }
+]
+
+dependencies = [
+    "scipy",
+    "numpy"
+]
